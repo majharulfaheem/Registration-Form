@@ -1,0 +1,60 @@
+/* here is the comment  */
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.login-form{
+	width: 50%;
+	margin: 30px auto;
+	padding: 40px ;
+	background: #eee;
+}
+.avater-img{
+	width: 100%;
+	text-align: center;
+}
+.avater-img img{
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+	margin-bottom: 30px;
+}
+.login-form h1{
+	font-size: 34px;
+	text-transform: uppercase;
+	font-weight: 500;
+	text-align: center;
+	line-height: 44px;
+	margin-bottom: 30px;
+}
+.main-form{
+	width: 100%;
+}
+.main-form label{
+	display: block;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+}
+.main-form .form-control{
+	width: 95%;
+	padding: 10px;
+	margin: 0px 0px 30px;
+	font-size: 14px;
+	color: #777;
+	text-transform: uppercase;
+}
+.main-form .btn{
+	padding: 10px 40px;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #fff;
+	background: #000;
+	border: 2px solid #000;
+}
